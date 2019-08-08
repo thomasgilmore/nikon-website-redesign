@@ -1,0 +1,14 @@
+.top-image {
+	background-image: url(./images/top-image.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 550px;
+	width: 100%;
+}
+
+.camera-for-top-image {
+	height: 250px;
+	float: right;
+	margin-top: -250px;
+	margin-right: .5rem;
+}
