@@ -1,0 +1,17 @@
+.dx-cameras {
+	display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    width: 75%;
+    float: right;
+}
+
+.dx-cameras img {
+    width: 254.98px;
+    height: 216.69px;
+    margin-top: 15px;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+}
