@@ -7,7 +7,7 @@
 }
 
 .dx-cameras {
-	background-image: url(./images/dx-gallery-1.jpg);
+	background-image: url(../images/dx-gallery-1.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 250px;
@@ -19,7 +19,7 @@
 }
 
 .fx-cameras {
-	background-image: url(./images/fx-gallery-1-d850.jpg);
+	background-image: url(../images/fx-gallery-1-d850.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 250px;
