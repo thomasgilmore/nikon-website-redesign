@@ -2,13 +2,23 @@
 	background-image: url(../images/top-image.jpg);
 	background-size: cover;
 	background-position: center;
-	height: 550px;
+	height: 725px;
 	width: 100%;
 }
 
 .camera-for-top-image {
-	height: 250px;
+	height: 280px;
 	float: right;
-	margin-top: -250px;
+	margin-top: -315px;
 	margin-right: .5rem;
+}
+
+.picture-description {
+	color: white;
+	text-shadow: 2px 2px #404040;
+	font-size: 25px;
+	font-weight: bold;
+	float: right;
+	margin-top: -45px;
+	margin-right: 1rem;
 }
