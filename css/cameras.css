@@ -1,0 +1,26 @@
+.header-image {
+
+}
+
+.types-of-cameras {
+	display: flex;
+    flex-wrap: row;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    overflow-x: scroll;
+}
+
+.types-of-cameras section {
+	margin: 50px;
+}
+
+img {
+	height: 120px;
+	width: 120px;
+
+}
+
+p {
+	text-align: center;
+}
