@@ -21,6 +21,40 @@ img {
 
 }
 
+.nikon-camera-img img {
+	width: 1400px;
+	height: 589.98px;
+}
+
+h1 {
+	text-align: center;
+}
+
+#button {
+	align-items: center;
+	margin: auto;
+	display: flex;
+    flex-wrap: row;
+}
+
+#yellow-button {
+	background-color: #ffdd00;
+	border-color: #ffdd00;
+	margin-left: auto;
+	margin-right: 2.5px;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#white-button {
+	margin-right: auto;
+	margin-left: 2.5px;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
 p {
 	text-align: center;
 }
