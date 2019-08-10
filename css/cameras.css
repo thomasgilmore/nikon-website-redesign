@@ -24,6 +24,8 @@ img {
 .nikon-camera-img img {
 	width: 1400px;
 	height: 589.98px;
+	margin: auto;
+	display: block;
 }
 
 h1 {
