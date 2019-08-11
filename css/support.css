@@ -1,0 +1,21 @@
+h3 {
+	text-align: center;
+}
+
+input {
+	justify-content: center;
+}
+
+#Search-Nikon-Support-Articles-Button {
+	align-items: center;
+	margin: auto;
+	display: flex;
+    flex-wrap: row;
+}
+
+#Search-Nikon-Support-Articles {
+	align-items: center;
+	margin: auto;
+	display: flex;
+    flex-wrap: row;
+}
