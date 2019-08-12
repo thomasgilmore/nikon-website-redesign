@@ -2,20 +2,16 @@ h3 {
 	text-align: center;
 }
 
-input {
+#Search-Nikon-Support-Articles input {
+	width: 300px;
+}
+
+#Nikon-Support-Search-Form {
 	justify-content: center;
 }
 
 #Search-Nikon-Support-Articles-Button {
-	align-items: center;
-	margin: auto;
-	display: flex;
-    flex-wrap: row;
-}
-
-#Search-Nikon-Support-Articles {
-	align-items: center;
-	margin: auto;
-	display: flex;
-    flex-wrap: row;
+	background-color: #fd0;
+	border-color: #fd0;
+	color: black;
 }
