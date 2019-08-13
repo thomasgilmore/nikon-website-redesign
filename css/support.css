@@ -1,11 +1,18 @@
+.Find-Answers {
+	background-color: #e6e6e6;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
 #Find-Answers {
 	display: flex;
 	justify-content: center;
-	margin-top: 25px;
+	color: #404040;
+	font-weight: normal;
 }
 
 #Search-Nikon-Support-Articles input {
-	width: 300px;
+	width: 500px;
 }
 
 #Nikon-Support-Search-Form {
