@@ -1,5 +1,7 @@
-h3 {
-	text-align: center;
+#Find-Answers {
+	display: flex;
+	justify-content: center;
+	margin-top: 25px;
 }
 
 #Search-Nikon-Support-Articles input {
