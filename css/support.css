@@ -1,3 +1,23 @@
+.header {
+	background-color: gray;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.header p {
+	color: white;
+	margin-left: 5rem;
+	margin-bottom: 5px;
+	font-size: 14px;
+}
+
+.header h2 {
+	color: white;
+	font-weight: normal;
+	margin-left: 5rem;
+	font-size: 28px;
+}
+
 .Find-Answers {
 	background-color: #e6e6e6;
 	padding-top: 15px;
@@ -23,4 +43,17 @@
 	background-color: #fd0;
 	border-color: #fd0;
 	color: black;
+}
+
+.register {
+	display: flex; 
+}
+
+.download {
+	display: flex;
+}
+
+.column {
+	flex: 50%;
+	padding: 10px;
 }
