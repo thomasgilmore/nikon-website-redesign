@@ -8,7 +8,7 @@
 }
 
 .dx-cameras {
-	display: flex;
+    display: flex;
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
