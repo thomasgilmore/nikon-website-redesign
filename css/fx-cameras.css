@@ -1,4 +1,4 @@
-.dx-cameras-top-image {
+.fx-cameras-top-image {
 	background-image: url(../images/dx-gallery-1.jpg);
 	background-size: 1000px 300px, contain;
 	background-repeat: no-repeat;
@@ -7,7 +7,7 @@
 	width: 100%;
 }
 
-.dx-cameras {
+.fx-cameras {
     display: flex;
     flex-wrap: wrap;
     text-align: center;
@@ -16,7 +16,7 @@
     margin: auto;
 }
 
-.dx-cameras img {
+.fx-cameras img {
     width: 254.98px;
     height: 216.69px;
     margin-top: 15px;
