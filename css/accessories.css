@@ -1,1 +1,8 @@
-
+.more-accessories {
+	display: flex;
+    flex-wrap: row;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    overflow-x: scroll;
+}
