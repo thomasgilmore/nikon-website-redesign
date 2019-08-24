@@ -3,16 +3,16 @@
     height:74px;
 }
 
-.dx-cameras {
+.dslr-accessories-and-more {
 	display: flex;
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 
-.dx-cameras img {
+.dslr-accessories-and-more img {
     width: 555px;
     height: 342.25px;
     margin-top: 15px;
@@ -21,25 +21,21 @@
     align-items: center;
 }
 
-.fx-cameras {
+.flash-accessories-and-more {
     display: flex;
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 
-.fx-cameras img {
+.flash-accessories-and-more img {
     width: 250px;
     height: 208.67px;
-    margin-top: 15px;
-    padding: 20px;
-    margin: 20px;
+    margin: 75px 75px 5px 75px;
     align-items: center;
 }
-
-
 
 .more-accessories {
 	display: flex;
@@ -48,6 +44,11 @@
     justify-content: center;
     width: 100%;
     overflow-x: scroll;
+}
+
+#more-accessories-title {
+    text-align: center;
+    margin-top: 50px;
 }
 
 .more-accessories section {
