@@ -1,0 +1,45 @@
+h1 {
+	text-align: center;
+	margin: 20px;
+}
+
+h5 {
+	font-weight: normal;
+	font-size: 18px;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.card-deck {
+	margin: auto;
+	width: 80%;
+	display: flex;
+}
+
+.card {
+	background-color: #e6e6e6;
+	margin: 10px;
+	align-items: center;
+	padding: 20px;
+}
+
+.card-deck img {
+	max-width: 200px;
+	max-height: 169.97px;
+}
+
+
+@media (min-width: 320px) {
+	
+}
+
+@media (min-width: 768px) {
+	
+}
+
+@media (min-width: 1024px) {
+
+}
