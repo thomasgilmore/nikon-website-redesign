@@ -1,3 +1,41 @@
+.dx-cameras {
+	display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.dx-cameras img {
+    width: 555px;
+    height: 342.25px;
+    margin-top: 15px;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+}
+
+.fx-cameras {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.fx-cameras img {
+    width: 250px;
+    height: 208.67px;
+    margin-top: 15px;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+}
+
+
+
 .more-accessories {
 	display: flex;
     flex-wrap: row;
@@ -5,4 +43,19 @@
     justify-content: center;
     width: 100%;
     overflow-x: scroll;
+}
+
+.more-accessories section {
+	margin: 50px;
+}
+
+/*.accessories img {
+	width: 555px;
+	height: 342.25px;
+}*/
+
+img {
+	height: 120px;
+	width: 120px;
+
 }
