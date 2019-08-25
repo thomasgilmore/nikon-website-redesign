@@ -3,6 +3,11 @@
     height:74px;
 }
 
+#nikon-accessories-title {
+    text-align: center;
+    margin: 30px;
+}
+
 .dslr-accessories-and-more {
 	display: flex;
     flex-wrap: wrap;
@@ -64,4 +69,10 @@ img {
 	height: 120px;
 	width: 120px;
 
+}
+
+#flash-accessories-and-more {
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
 }
