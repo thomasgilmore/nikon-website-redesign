@@ -1,1 +1,22 @@
+#nikon-flashes-title {
+	text-align: center;
+	margin: 20px;
+}
 
+.flashes {
+	display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.flashes img {
+    width: 254.98px;
+    height: 216.69px;
+    margin-top: 15px;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+}
