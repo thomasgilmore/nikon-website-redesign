@@ -1,0 +1,22 @@
+#nikon-film-cameras-title {
+	text-align: center;
+	margin: 20px;
+}
+
+.film-cameras {
+	display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.film-cameras img {
+    width: 254.98px;
+    height: 216.69px;
+    margin-top: 15px;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+}
