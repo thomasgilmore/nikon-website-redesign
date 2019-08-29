@@ -1,0 +1,12 @@
+#point-and-shoot-nav img {
+	height: 67px;
+	width: 67px;
+}
+
+#point-and-shoot-nav ul {
+	list-style: none;
+}
+
+#point-and-shoot-nav li {
+	display: inline-block;
+}
