@@ -49,53 +49,32 @@
 	margin-top: -305px;
 }
 
-#COOLPIX-B500 img {
-	height: 203.30px; 
-	margin-right: -50px;
-}
-
-#COOLPIX-B500 p {
-	margin-right: -50px;
-}
-
-#COOLPIX-P1000 img {
-	width: 270.39px;
-	height: 229.83px;
+#COOLPIX-W100 img {
+	width: 374.38px;
+	height: 318.22px;
 	margin-top: 100px;
+	margin-right: -10px;
+}
+
+#COOLPIX-W100 p {
 	margin-right: -50px;
 }
 
-#COOLPIX-P1000 p {
-	margin-right: -50px;
-}
-
-#COOLPIX-B600 img {
-	width: 281.83px;
-	height: 239.55px;
+#COOLPIX-W150 img {
+	width: 388.25;
+	height: 330px;
 	margin-top: 150px;
 }
 
-#COOLPIX-B900 img {
-	width: 270.39px;
-	height: 229.83px;
-	margin-left: -50px;
+#COOLPIX-W300 img {
+	width: 374.38px;
+	height: 318.22px;
+	margin-left: -10px;
 	margin-top: 100px;
 	z-index: -1;
     position:relative;
 }
 
-#COOLPIX-B900 p {
-	margin-left: -50px;
-}
-
-#COOLPIX-B700 img {
-	width: 239.19px;
-	height: 203.3px;
-	margin-left: -50px;
-	z-index: -2;
-    position:relative;
-}
-
-#COOLPIX-B700 p {
+#COOLPIX-W300 p {
 	margin-left: -50px;
 }
