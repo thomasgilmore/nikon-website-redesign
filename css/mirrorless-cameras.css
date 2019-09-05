@@ -2,3 +2,27 @@
 	text-align: center;
 	margin: 20px;
 }
+
+.mirrorless-cameras {
+	display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.mirrorless-cameras section {
+	margin: 50px;
+}
+
+.z7-camera-image, 
+.z6-camera-image {
+	width: 438px;
+	height: 336.23px;
+}
+
+.z7-logo-tm,
+.z6-logo-tm {
+	width: 105px;
+	height: 48.17px;
+}
