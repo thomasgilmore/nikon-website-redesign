@@ -1,3 +1,12 @@
-img {
-	width: 80%;
+#Photography-Classes,
+#Photography-Articles-And-Videos,
+#Nikon-Ambassadors {
+	text-align: center;
+	margin: 50px;
+}
+
+#Photography-Classes img,
+#Photography-Articles-And-Videos img {
+	width: 1170px;
+	height: 401.14px;
 }
