@@ -1,5 +1,7 @@
 #header {
 	text-align: center;
+	margin-top: 25px;
+	margin-bottom: -25px;
 }
 
 #Photography-Classes,
@@ -9,8 +11,33 @@
 	margin: 50px;
 }
 
-#Photography-Classes img,
-#Photography-Articles-And-Videos img {
+#backgroundImage {
 	width: 1170px;
 	height: 401.14px;
+}
+
+#nikonSchool {
+	width: 600px;
+	height: 117.72px;
+	margin-top: -400px;
+}
+
+#logoLearnAndExplore {
+	width: 557.66px;
+	height: 119.98;
+	margin-top: -425px
+}
+
+#logoAmbassadors {
+	width: 600px;
+	height: 88.48px;
+	margin-top: -420px;
+}
+
+#textBelowPicture {
+	padding-left: 425px;
+	padding-right: 425px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-size: 18px;
 }
