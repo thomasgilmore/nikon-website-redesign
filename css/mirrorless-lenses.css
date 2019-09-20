@@ -1,3 +1,25 @@
 h1 {
 	text-align: center;
 }
+
+.horizontal-scroll-wrapper {
+	display: flex;
+	flex-wrap: row;
+  	width: 100%;
+  	overflow-y: auto;
+  	overflow-x: auto;
+}
+
+.horizontal-scroll-wrapper > div {
+	margin: 25px;
+	text-align: center;
+}
+
+#yellow-button {
+	background-color: #ffdd00;
+	border-color: #ffdd00;
+}
+
+.horizontal-scroll-wrapper img {
+	width: 280px;
+}
