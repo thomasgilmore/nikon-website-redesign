@@ -20,6 +20,45 @@ h1 {
 	border-color: #ffdd00;
 }
 
-.horizontal-scroll-wrapper img {
+#NIKKOR-Z-58mm-f-0-95-S-Noct img {
 	width: 280px;
 }
+
+#NIKKOR-Z-24mm-f-1-8-S img {
+	width: 280px;
+	margin-top: 135px;
+}
+
+#NIKKOR-Z-85mm-f-1-8-S img {
+	width: 280px;
+	margin-top: 105px;
+}
+
+#NIKKOR-Z-24-70mm-f-2-8-S img {
+	width: 280px;
+	margin-top: 29px;
+}
+
+#NIKKOR-Z-14-30mm-f-4-S img {
+	width: 280px;
+	margin-top: 118px;
+}
+
+#NIKKOR-Z-24-70mm-f-4-S img {
+	width: 280px;
+	margin-top: 118px;
+}
+
+#NIKKOR-Z-35mm-f-1-8-S img {
+	width: 280px;
+	margin-top: 121px;
+}
+
+#NIKKOR-Z-50mm-f-1-8-S img {
+	width: 280px;
+	margin-top: 150px;
+}
+
+/*.horizontal-scroll-wrapper img {
+	width: 280px;
+}*/
