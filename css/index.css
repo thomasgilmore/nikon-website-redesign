@@ -1,10 +1,11 @@
-.top-image {
+/*.top-image {
 	background-image: url(../images/top-image.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 725px;
 	width: 100%;
 }
+
 
 .camera-for-top-image {
 	height: 280px;
@@ -21,4 +22,4 @@
 	float: right;
 	margin-top: -45px;
 	margin-right: 1rem;
-}
+}*/
