@@ -79,3 +79,17 @@ img {
     font-weight: bold;
     font-size: 14px;
 }
+
+#yellowButton {
+    background-color: #FFDD00;
+    border-color: #FFDD00;
+    font: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 15px 52px;
+    border-radius: 100px;
+}
+
+#nikon1LensAccessories {
+    padding-right: 50px;
+}
