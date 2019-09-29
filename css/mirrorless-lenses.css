@@ -18,6 +18,11 @@ h1 {
 #yellow-button {
 	background-color: #ffdd00;
 	border-color: #ffdd00;
+	font: Arial;
+    font-size: 14px;
+    font-weight: bold;
+	padding: 15px 52px;
+    border-radius: 100px;
 }
 
 #NIKKOR-Z-58mm-f-0-95-S-Noct img {
